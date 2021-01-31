@@ -15,7 +15,7 @@ See the associated notebook for further details.
 """
 
 
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import numpy as np
 import urllib3
 import copy
