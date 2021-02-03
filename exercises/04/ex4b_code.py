@@ -21,8 +21,8 @@ game = PointyGame.Game((9,9), creature)
 #Creating a dictionary to save the data at end of each step
 ex4_dict = {}
 #Looping the three functions, 30 replicates and 100 steps
-for func in [play_greedily]:
-    for i in range(1,11):
+for func in [play_greedily,play_randomly,play_greedy_with_random]:
+    for i in range(1,31):
         creature = Creature(1000, (9,9), (4,4), init_facing='N')
         game = PointyGame.Game((9,9), creature)
         for j in range(1,101):
