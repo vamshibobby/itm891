@@ -1,0 +1,70 @@
+SCORE: 10/10
+Assignment01: Web Crawler                                          Assignment01
+===============================================================================
+
+Submitted files
+---------------
+.
+├── Submission.zip
+├── WebCrawler.ipynb
+├── assignment01.csv
+└── grade.txt
+
+0 directories, 4 files
+
+
+Number of csv files identified: 1
+Number of ipynb files identified: 1
+
+
+
+CSV Evaluation
+--------------
+Attempting to read ./assignment01.csv [OK]
+Number of entries: 100
+Number of columns: 3
+Column headings:
+   url_source
+   url_target
+   page_title_target
+
+URL Evaluation
+--------------
+     none:                                                                  1
+     https://en.wikipedia.org/wiki/Michigan_State_University:               5
+     https://en.wikipedia.org/wiki/Wikipedia:Featured_articles:             5
+     https://en.wikipedia.org/wiki/Michigan:                                4
+     https://en.wikipedia.org/wiki/University_of_Michigan:                  3
+     https://en.wikipedia.org/wiki/Public_university:                       4
+     https://en.wikipedia.org/wiki/Flagship_university:                     4
+     https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi:        5
+     https://en.wikipedia.org/wiki/Wikipedia:Wikipedians:                   5
+     https://en.wikipedia.org/wiki/Wikipedia:Featured_article_candidates:   4
+     https://en.wikipedia.org/wiki/Wikipedia:Featured_article_criteria:     5
+     https://en.wikipedia.org/wiki/Special:Statistics:                      5
+     https://en.wikipedia.org/wiki/Michigan_(disambiguation):               4
+     https://en.wikipedia.org/wiki/Great_Lakes_region:                      5
+     https://en.wikipedia.org/wiki/U.S._state:                              4
+     https://en.wikipedia.org/wiki/Flag_of_Michigan:                        4
+     https://en.wikipedia.org/wiki/University_of_Michigan_(disambiguation):  3
+     https://en.wikipedia.org/wiki/Latin_language:                          5
+     https://en.wikipedia.org/wiki/Public_school_(disambiguation):          5
+     https://en.wikipedia.org/wiki/University_of_Virginia:                  4
+     https://en.wikipedia.org/wiki/University:                              4
+     https://en.wikipedia.org/wiki/College:                                 4
+     https://en.wikipedia.org/wiki/Flagship_(disambiguation):               6
+     https://en.wikipedia.org/wiki/HMS_Victory:                             2
+
+Number of sources with too many targets:  0
+
+Accessible HTML targets 99
+Non HTML targets        0
+Inaccessible targets    0
+
+
+
+
+
+Comments
+--------
+Good job!

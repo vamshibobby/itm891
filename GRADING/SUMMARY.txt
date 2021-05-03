@@ -1,0 +1,56 @@
+GRADING SUMMARY SS21                                                   atukuris
+===============================================================================
+
+CSE801A GRADING SUMMARY
+----------------------
+
+Assignments (40%)
+    Assignment01    10 / 10
+    Assignment02    10 / 10
+    Assignment03    10 / 10  (applied)
+    Assignment04    10 / 10  (applied)
+    ------------
+    Total           40 / 40
+
+
+Project (60%)
+    Proposal        10 / 10
+    1-1 Meeting     10 / 10
+    Exec Summary    10 / 10
+    Notebook        20 / 20
+    Requirements    50 / 50
+    ------------
+    Total           100 / 100
+ 
+
+Overall
+    Assignment Weight   40.0
+    Project Weight      60.0
+    Total               100.0 / 100
+
+GRADE                   4.0
+
+
+
+
+ITM891 GRADING SUMMARY
+----------------------
+
+Assignments (40%)
+    Exercise01      1 / 1
+    Exercise02      1 / 1
+    Exercise03      1 / 1
+    Exercise04      1 / 1
+    Exercise05      1 / 1
+    Exercise06      1 / 1
+    Exercise07      1 / 1
+    Exercise08      0 / 1
+    Exercise09      1 / 1
+    Exercise10      1 / 1
+    Exercise12      1 / 1
+    ------------
+    Total           10 / 11
+ 
+
+GRADE                   4.0
+
